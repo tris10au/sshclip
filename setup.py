@@ -30,10 +30,8 @@ if "VERSION" in os.environ:
 setup(
     name="sshclip",
     version=version,
-    url="https://github.com/",
     license="Apache 2.0",
-    author="Tristan Roberts",
-    author_email="tristan.roberts@paperasteroid.com",
+    author="tris10au",
     description="TODO",
     packages=find_packages(),
     include_package_data=True,
